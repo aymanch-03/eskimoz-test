@@ -1,7 +1,7 @@
 import { UserRoundX } from "lucide-react";
 import { useState } from "react";
 import data from "../data/data.json";
-import Dropdown from "./JobDropdown";
+import Dropdown from "./Dropdown";
 import PersonCard from "./PersonCard";
 import SearchInput from "./SearchInput";
 
